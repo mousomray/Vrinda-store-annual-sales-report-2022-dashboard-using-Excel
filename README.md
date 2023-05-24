@@ -3,13 +3,13 @@ Business Problem : This is a Dashboard created for the company Vrinda stores Ann
 Objectives, to understand and analyze the sales performance of the Vrinda Store sales data from 2022 and provide an annual report to help and improve the business in 2023.
 
 # I worked on this project:-
-*Data Collecting 
-*Data Cleaning 
-*Data Processing
-*Data Analysis 
-*Data Visualization
-*.Reports
-*Final Insights
+* Data Collecting 
+* Data Cleaning 
+* Data Processing
+* Data Analysis 
+* Data Visualization
+* Reports
+* Final Insights
 
 # Procedures:-
 
