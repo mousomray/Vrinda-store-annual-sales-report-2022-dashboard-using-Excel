@@ -1,4 +1,4 @@
-# Excel--Vrinda-Store-Data-Analysis
+# Excel-Vrinda-Store-Data-Analysis
 Business Problem : This is a Dashboard created for the company Vrinda stores Annual Sales Report for the year 2022. 
 Objectives, to understand and analyze the sales performance of the Vrinda Store sales data from 2022 and provide an annual report to help and improve the business in 2023.
 
