@@ -22,7 +22,7 @@ Adult(>30), and Teenagers using IF() function. =IF(E2>=50,"senior",IF(E2>30,"adu
 
  Created month column to get the month wise data using the function . =TEXT(G2,"mmm")
 
-# Data Analysis:-  
+# Data Analysis and Visualization:-  
 Created Clustered combo-Line to analyse Orders Vs Sales for each month. 
 Created a Pie chart to analyze the shopping Percentage of Men and Women.  Created a Bar chart to show the Top 5 
 States with highest sales.  Created a Pie Chart to understand Order Status of the customers.  Created a Column 
