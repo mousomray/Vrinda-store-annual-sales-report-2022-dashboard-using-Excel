@@ -13,7 +13,7 @@ Objectives, to understand and analyze the sales performance of the Vrinda Store 
 
 # Procedures:-
 
-Data gathering & cleaning:  After collecting excel file and performed various activities like removing
+Data gathering & cleaning:-  After collecting excel file and performed various activities like removing
 duplicates, fixing typo errors, and transforming the data into a format that can be easily analyzed.
 
 # Data Processing:-  
