@@ -21,6 +21,7 @@ duplicates, fixing type errors, and transforming the data into a format that can
 Adult(>30), and Teenagers using IF() function. =IF(E2>=50,"senior",IF(E2>30,"adult","teeneger"))
 
 * Created month column to get the month wise data using the function . =TEXT(G2,"mmm")
+* Created different pivot tables for different charts.
 
 # Data Analysis and Visualization 
 * Created Clustered combo-Line to analyse Orders Vs Sales for each month. 
