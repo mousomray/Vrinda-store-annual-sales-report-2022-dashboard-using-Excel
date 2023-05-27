@@ -17,10 +17,10 @@ Data gathering & cleaning:-  After collecting excel file and performed various a
 duplicates, fixing type errors, and transforming the data into a format that can be easily analyzed.
 
 # Data Processing  
-Created an Age group column in order to categorize the Age column into Senior(>=50),
+* Created an Age group column in order to categorize the Age column into Senior(>=50),
 Adult(>30), and Teenagers using IF() function. =IF(E2>=50,"senior",IF(E2>30,"adult","teeneger"))
 
- Created month column to get the month wise data using the function . =TEXT(G2,"mmm")
+* Created month column to get the month wise data using the function . =TEXT(G2,"mmm")
 
 # Data Analysis and Visualization 
 Created Clustered combo-Line to analyse Orders Vs Sales for each month. 
