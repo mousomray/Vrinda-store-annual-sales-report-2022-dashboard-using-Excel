@@ -7,7 +7,6 @@ Objectives, to understand and analyze the sales performance of the Vrinda Store 
 * Data Cleaning 
 * Data Processing
 * Data Analysis & Visualization 
-* Reports
 * Final Insights
 * Final Conclusion 
 
