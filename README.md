@@ -55,10 +55,10 @@ Adult(>30), and Teenagers using IF() function. =IF(E2>=50,"senior",IF(E2>30,"adu
 # Final Conclusion to improve VRINDA STORE SALES:-
 👉 Finally based on the insights, to increase sales in 2023, 
    we can suggest Vrinda store consider the following:
-📌 We should target female customers of ages ranging from 30 to 50.
-📌 We should produce more products in the categories Sets, Kurtis, and Western dresses as they have the highest sales.
-📌 We can target the top states and introduce more products along with discounts, and coupons that are exclusive to this locations.
-📌 March has the highest number of sales. So we should release new collection in this month.
+* We should target female customers of ages ranging from 30 to 50.
+* We should produce more products in the categories Sets, Kurtis, and Western dresses as they have the highest sales.
+* We can target the top states and introduce more products along with discounts, and coupons that are exclusive to this locations.
+* March has the highest number of sales. So we should release new collection in this month.
 
 
  
