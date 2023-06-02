@@ -10,6 +10,7 @@ Objectives, to understand and analyze the sales performance of the Vrinda Store 
 * Data Visualization
 * Reports
 * Final Insights
+* Final Conclusion 
 
 # Procedures
 
@@ -42,14 +43,23 @@ Adult(>30), and Teenagers using IF() function. =IF(E2>=50,"senior",IF(E2>30,"adu
 * Show the Relation between Age and Gender based on the number of orders. 
 * Which channel is contributing to maximum sales? 
 
-# Key insights
-* Women are more likely to buy compared to men.
+# Final insights
+* March month recorded the highest sales and orders.
+* Women purchased more than men (64%)
+* Maximum order status was seen to be delivered(92%)
+* Maharashtra, Karnataka, Uttar Pradesh, Telangana and Tamil Nadu are the top 5 states by highest sales.
+* Women of the Adult age group were the highest to place orders (35%)
 * The adult age group(30-49) contributes the most. 
-* Amazon, Flipkart and Myntra channels contributes the most. 
+* Amazon (35%), Myntra (23%) and Flipkart (22%) channels are contributing to maximum sales.
 
 # Final Conclusion to improve VRINDA STORE SALES:-
-Target the women customers of age group(30-49) living 
-in Maharashtra, Karnataka, Uttar Pradesh by showing 
-ads/offers/coupons available on Amazon, Flipkart 
-and Myntra. 
+👉 Finally based on the insights, to increase sales in 2023, 
+   we can suggest Vrinda store consider the following:
+📌 We should target female customers of ages ranging from 30 to 50.
+📌 We should produce more products in the categories Sets, Kurtis, and Western dresses as they have the highest sales.
+📌 We can target the top states and introduce more products along with discounts, and coupons that are exclusive to this locations.
+📌 March has the highest number of sales. So we should release new collection in this month.
+
+
+ 
 
